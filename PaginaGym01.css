@@ -1,0 +1,52 @@
+.HeadersBottons{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ProgramsClass{
+    color:  rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px;
+0}
+
+.SupplementsClass{
+    color: rgb(214, 113, 18);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.CoachClass{
+    color: rgb(0, 64, 107);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ContactClass{
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#Contactbackground{
+    width: 400px;
+    height: 125px;
+    background-color: rgb(108, 169, 238);
+    border-radius: 20px 0;
+    box-shadow: 0px 0px 50px; 
+    margin: 50px;
+}
+}
+#Pogramsbackground{
+    width: 1300px;
+    height: 550px;
+    background-color: rgba(182, 158, 93, 0.712); 
+}
+#SupplementsBackground{
+    width: 1400px;
+    height: fit-content;
+    background-color: aquamarine;
+    margin: 100px;
+    border-radius: 20px 0;
+    box-shadow: 0px 0px 50px; 
+}
+#pageBackground{
+    width: auto;
+    height: auto;
+    background-color:#093c8d;
+    background: linear-gradient(95deg,#093c8d 0%, #4dafff 80%);
+    background: -webkit-linear-gradient(95deg,#093c8d 0%, #4dafff 80%);
+    background: -moz-linear-gradient(95deg,#093c8d 0%, #4dafff 80%);
+    
